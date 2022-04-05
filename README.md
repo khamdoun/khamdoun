@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khamdoun
-- 👀 I’m interested in ... SQL
-- 🌱 I’m currently learning ... Google Data Analytics Certificate Program
+- 👀 I’m interested in ... data analysis
+- 🌱 I’m currently learning ... PostgreSQL, Tableau, keeping up with my MS Excel skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
