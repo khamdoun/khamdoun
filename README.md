@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khamdoun
-- 👀 I’m interested in ... data analysis
+- 👀 I’m interested in ... Excel Analyst, Python3, Flask, AI
 - 🌱 I’m currently continuing to keep up with my MS Excel skills, working on Python3 with Flask and ChatGPT/OpenAI projects
 - 📫 How to reach me ...
 
