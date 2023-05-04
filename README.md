@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khamdoun
+- 👋 Hi, I’m Kim
 - 👀 I’m interested in ... Excel Analyst, Python3, Flask, AI
 - 🌱 I’m currently continuing to keep up with my MS Excel skills, working on Python3 with Flask and ChatGPT/OpenAI projects
 - 📫 How to reach me ...
