@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khamdoun
 - 👀 I’m interested in ... data analysis
 - 🌱 I’m currently continuing to keep up with my MS Excel skills, working on Python3 with Flask and ChatGPT/OpenAI projects
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
